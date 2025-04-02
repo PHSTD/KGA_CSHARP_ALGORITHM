@@ -1,0 +1,2 @@
+# KGA_CSHARP_ALGORITHM
+ c# 알고리즘
