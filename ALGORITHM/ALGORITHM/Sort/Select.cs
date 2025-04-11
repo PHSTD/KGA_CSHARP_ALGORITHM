@@ -2,6 +2,10 @@ namespace ALGORITHM;
 
 public class Select
 {
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="numberArray"></param>
     public static void SelectionSort(int[] numberArray)
     {
         for (int i = 0; i < numberArray.Length; i++)
